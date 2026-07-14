@@ -1,4 +1,4 @@
-<img width="600" height="400" alt="age_distribution" src="https://github.com/user-attachments/assets/1131e03e-f7af-4979-9607-575f09a30154" /># Healthcare-Disease-Risk-Prediction
+
 # 🏥 Healthcare Data Analysis & Disease Risk Prediction System
 
 ## 📌 Project Overview
